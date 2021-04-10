@@ -1,0 +1,12 @@
+body{
+    background: url('../img/fondo.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg-greyt{
+    background: rgba(37, 36, 36, 0.5);
+}
+.bg-whitet{
+    background: rgba(255, 255, 255, .7);
+}
